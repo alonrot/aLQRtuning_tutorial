@@ -1,0 +1,5 @@
+*.m~
+*.pyc
+*.ipynb_checkpoints
+*.mat
+.DS_Store
