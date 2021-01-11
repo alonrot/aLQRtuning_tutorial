@@ -4,8 +4,8 @@ Tutorial to learn the insights of the automatic LQR tuning framework proposed in
 
 	Alonso Marco, Philipp Hennig, Jeannette Bohg, Stefan Schaal, Sebastian Trimpe,
 	"Automatic LQR Tuning Based on Gaussian Process Global Optimization", 
-	IEEE 2016 International Conference on Robotics and Automation (ICRA),
-	2020, accepted.
+	International Conference on Robotics and Automation (ICRA),
+	2016, accepted.
 
 The following two videos summarize the benefits of our contribution, demonstrated on two robotic platforms:
 1. [Robot arm balancing an inverted pole](https://youtu.be/TrGc4qp3pDM)
