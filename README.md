@@ -1,6 +1,6 @@
 Description
 =========
-Tutorial to learn the insights of the automatic LQR tuning framework proposed in our [paper](https://arxiv.org/abs/1605.01950).
+Tutorial to learn the insights of the automatic LQR tuning framework proposed in our [paper](https://arxiv.org/abs/1605.01950).   
 _Remark:_ This code was **not** used to generate the results published in the paper. Instead, it is a collection of simple examples to merely illustrate how the proposed method works. It has been created for academic purposes.
 
 	Alonso Marco, Philipp Hennig, Jeannette Bohg, Stefan Schaal, Sebastian Trimpe,
